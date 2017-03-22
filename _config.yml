@@ -1,2 +1,3 @@
 name: Gil Fuser website hubba hubba
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
