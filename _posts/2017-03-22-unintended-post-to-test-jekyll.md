@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Unintended blog post to test things
+date: 2017-03-22
 ---
 
 I don't have much to talk about.
