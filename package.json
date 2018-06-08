@@ -1,0 +1,28 @@
+{
+  "name": "gilfuser.net",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilfuser/gilfuser.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "media-art",
+    "Gil",
+    "Fuser"
+  ],
+  "author": "Gil Fuser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilfuser/gilfuser.github.io/issues"
+  },
+  "homepage": "https://github.com/gilfuser/gilfuser.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^0.10.1"
+  }
+}
