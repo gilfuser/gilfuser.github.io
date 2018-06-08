@@ -1,13 +1,154 @@
----
-layout: default
-title: Gil Fuser website
----
-  <!-- link to main stylesheet -->
-  <link rel="stylesheet" type="text/css" href="/css/main.css"
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
 
-<div class="blurb">
-    <h1> Hi, this is my brand new website</h1>
-    <p>I'm just making this all from scratch using <li><a href="https://pages.github.com/">GitHub Pages</a></li> + <li><a href="http://jekyllrb.com/">Jekkyl</a></li>.</p>
-    <p>I didn't like the layout from the website builder that the host provider I (still) have offer. And Indexhibit, a CMS which I respect very much and which I used for a long time, it seems like its frozen in time.</p>
-    <p>Be pacient until I have all the content from my site here. I'm still learning how to use all of this.</p>
- </div><!-- /.blurb -->
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="page-header">Hello, world!
+        <p><small> yabaa dabada dubdauda yalla!</small></p>
+      </h1>
+      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </br><mark>labore et dolore magna aliqua.</mark> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea <del>commodo consequat</del>. Duis aute irure dolor in reprehenderit in <u>voluptate velit</u> esse cillum dolore eu fugiat nulla pariatur. <strong>Excepteur sint occaecat</strong> cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+      <hr>
+
+      <p class="text-left text-lowercase"> Alignment text Left</p>
+      <p class="text-center text-uppercase"> alignment text center</p>
+      <p class="text-right text-capitalize"> alignment text right</p>
+      <p class="text-justify"> alignment text justified</p>
+      <p class="text-nowrap"> alignment text no-wrap</p>
+
+      <div class="pull-right"> div float to the right</div>
+      <div class="pull-left"> div float to the left</div>
+<!-- clear float -->
+      <div class="clearfix"></div>
+      <hr>
+
+      <blockquote class="blockquote">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        <footer>Quote by <cite title="Zé Mané">Zé Mané</cite></footer>
+      </blockquote>
+
+      <!-- LISTS -->
+      <ul class="list-unstyled">
+        <li>Item One</li>
+        <li>Item Two</li>
+        <li>Item Three</li>
+        <li>Item Four</li>
+        <li>Item Five</li>
+      </ul>
+
+      <ul class="list-inline">
+        <li>Item One</li>
+        <li>Item Two</li>
+        <li>Item Three</li>
+        <li>Item Four</li>
+        <li>Item Five</li>
+      </ul>
+
+      <hr>
+      <!-- Contextual Colors -->
+      <p class="text-primary">Hello World</p>
+      <p class="text-success">Hello World</p>
+      <p class="text-info">Hello World</p>
+      <p class="text-warning">Hello World</p>
+      <p class="text-danger">Hello World</p>
+      <p class="text-muted">Hello World</p>
+
+      <p class="bg-primary">Hello World</p>
+      <p class="bg-success">Hello World</p>
+      <p class="bg-info">Hello World</p>
+      <p class="bg-warning">Hello World</p>
+      <p class="bg-danger">Hello World</p>
+      <p class="bg -muted">Hello World</p>
+
+    </div>
+<hr>
+
+<div class="container">
+
+  <button class="btn btn-default">Button Default</button>
+  <a href="#" class="btn btn-default">Button Link</a>
+  <input type="submit" class="btn btn-default" value="submit">
+
+  <button class="btn btn-default">Default</button>
+  <button class="btn btn-primary">Primary</button>
+  <button class="btn btn-success">Success</button>
+  <button class="btn btn-info">Info</button>
+  <button class="btn btn-warning">Warning</button>
+  <button class="btn btn-danger">Danger</button>
+
+
+  <button class="btn btn-danger btn-lg">Danger</button>
+  <button class="btn btn-danger btn-sm">Danger</button>
+  <button class="btn btn-danger btn-xs" disabled="disabled">Danger</button>
+
+</div>
+<hr>
+<div class="container">
+<form>
+  <div class="form-group">
+    <label>Name</label>
+    <input type="text" class="form-control" placeholder="Maria Jose">
+  </div>
+  <div class="form-group">
+    <label>Email</label>
+    <input type="email" class="form-control" placeholder="mariajose@asdf.dsa">
+  </div>
+  <div class="form-group">
+    <label>Message</label>
+    <textarea class="form-control" placeholder="add yout message here if you want to"></textarea>
+  </div>
+  <div class="form-group">
+    <label>Blablabla</label>
+    <select class="form-control">
+      <option value="que?"></option>
+      <option value="quando?"></option>
+      <option value="onde?"></option>
+    </select>
+  </div>
+</form>
+</div>
+
+<section id="cover">
+  <div id="cover-caption">
+    <div class="container">
+      <div class="col-sm-10 "><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
+    </div>
+  </div>
+</section>
+
+section#cover
+
+
+
+<div class="container">
+<div class="list-group">
+  <a href="#" class="list-group-item active">asd</a>
+  <a href="#" class="list-group-item">Item One</a>
+  <a href="#" class="list-group-item">Item Two</a>
+  <a href="#" class="list-group-item">Item Three</a>
+  <a href="#" class="list-group-item">Item Four</a>
+</ul>
+</div>
+
+<ul class="list-inline">
+  <li>Item One</li>
+  <li>Item Two</li>
+  <li>Item Three</li>
+  <li>Item Four</li>
+  <li>Item Five</li>
+</ul>
+
+    <div style="height:400px"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
