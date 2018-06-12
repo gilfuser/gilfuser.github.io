@@ -1,10 +1,12 @@
 {
   "name": "gilfuser.net",
   "version": "1.0.0",
-  "description": "personal website",
-  "main": "index.js",
+  "description": "my own website",
+  "main": ".vuepress/config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
@@ -12,9 +14,12 @@
   },
   "keywords": [
     "portfolio",
+    "Gil Fuser",
     "media-art",
-    "Gil",
-    "Fuser"
+    "livecoding",
+    "generative",
+    "art",
+    "computational"
   ],
   "author": "Gil Fuser",
   "license": "ISC",
