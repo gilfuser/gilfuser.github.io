@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Gil Fuser is under construction',
+    title: 'Gil Fuser',
     markdown: {
     lineNumbers: true
     },
@@ -12,7 +12,7 @@ module.exports = {
 
         // Assumes GitHub. Can also be a full GitLab url.
         repo: 'gilfuser/gilfuser.github.io',
-
+        docsDir: 'docs',
         locales: {
             '/': { 
                 lang: 'en-US',
