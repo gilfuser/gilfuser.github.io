@@ -16,7 +16,7 @@ module.exports = {
         locales: {
             '/': { 
                 lang: 'en-US',
-                title: 'Gil Fuser is under construction',
+                title: 'Mixings senses makes sense',
                 description: 'works and processes',
                 selectText: 'Languages',
                 label: 'English',
@@ -27,16 +27,20 @@ module.exports = {
                     // { text:'GitHub',  link: 'https://github.com/gilfuser/gilfuser.github.io' },
                     // { text: 'experiments', link: './experiments/' }
                 ],
-                sidebar: [
-                    '/',
-                    '/portfolio/',
-                    '/short-bio/',
-                    '/experiments/'
-                ]
+                sidebar: {
+                    home: '/',
+                    '/portfolio/': [
+                        '',
+                        'banda-de-plantas',
+                        'liebesbrunnen'
+                    ],
+                    short_bio: '/short-bio/',
+                    experiments: '/experiments/'
+                }
             },
             '/pt/': {
                 lang: 'pt-BR',
-                title: 'Gil Fuser está em construcao',
+                title: 'Misturar sentidos faz sentido',
                 description: 'trabalhos e processos',
                 selectText: 'Languages',
                 label: 'Português',
