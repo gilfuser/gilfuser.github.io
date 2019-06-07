@@ -32,7 +32,8 @@ module.exports = {
                     '/portfolio/': [
                         '',
                         'banda-de-plantas',
-                        'liebesbrunnen'
+                        'liebesbrunnen',
+                        'caixa-automagica-de-musica-sensorial'
                     ],
                     short_bio: '/short-bio/',
                     experiments: '/experiments/'
