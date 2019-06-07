@@ -1,5 +1,6 @@
 module.exports = {
     title: 'Gil Fuser',
+    description: 'works and processes',
     markdown: {
     lineNumbers: true
     },
@@ -27,17 +28,26 @@ module.exports = {
                     // { text:'GitHub',  link: 'https://github.com/gilfuser/gilfuser.github.io' },
                     // { text: 'experiments', link: './experiments/' }
                 ],
-                sidebar: {
-                    home: '/',
-                    '/portfolio/': [
+                sidebar: [
+                    '/',
+                    {
+                        title: 'portfolio',
+                        children: [
                         '',
                         'banda-de-plantas',
                         'liebesbrunnen',
                         'caixa-automagica-de-musica-sensorial'
-                    ],
-                    short_bio: '/short-bio/',
-                    experiments: '/experiments/'
-                }
+                    ]},
+                    {
+                        title: 'experiments',
+                        children: [
+                            '',
+                            'na-pegada-do-saci',
+                            'deslugarejo'
+                        ]
+                    },
+                    '/short-bio/'
+                ]
             },
             '/pt/': {
                 lang: 'pt-BR',
