@@ -27,7 +27,8 @@
     "url": "https://github.com/gilfuser/gilfuser.github.io/issues"
   },
   "homepage": "https://github.com/gilfuser/gilfuser.github.io#readme",
-  "devDependencies": {
-    "vuepress": "^0.10.1"
+  "devDependencies": {},
+  "dependencies": {
+    "vuepress": "^0.14.11"
   }
 }
