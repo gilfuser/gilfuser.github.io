@@ -2,4 +2,4 @@
 
 ## P5.js experiments
 
-comming soon
+coming soon

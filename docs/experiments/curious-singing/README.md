@@ -1,3 +1,3 @@
 # Curious Singing
 
-comming soon
+coming soon
