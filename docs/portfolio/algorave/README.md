@@ -2,10 +2,7 @@
 
 ## Algorave SP 2018
 
-<video width="640" height="640" controls>
-  <source src="./videos/0102-0692.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe style="width:100%;height:416px" src="https://www.youtube.com/embed/O_CWJNC6J3o?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sao Paulo, March 17, 2018
 
