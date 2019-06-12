@@ -70,7 +70,4 @@ In the end, as experimentation, the instruments can be combined together, genera
 ![image](./images/mw-01.jpg)
 ![image](./images/mw-03.jpg)
 
-<video style="max-width:100%;height:auto;" controls>
-  <source src="./maritronica.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe style="width:100%;height:416px;" src="https://www.youtube.com/embed/px9Je3Rxayc?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
