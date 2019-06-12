@@ -8,14 +8,14 @@
 Every part has to do with the experience of, with the help of technology, touching with the plants. Note: not **play the plants**, but, **play with** them.
 
 <ClientOnly>
-  <frac-tree />
+  <frac-tree class="ft" ref="ft" />
 </ClientOnly>
 
 ## Workshop
 
 In this workshop participants learn to translate into sound, the stimuli captured with the plants using sensors, Arduino and SuperCollider - a platform for audio synthesis and algorithmic composition. We start with an introduction to the SuperCollider and end up interacting with the plants, improvising together.
 
-## Interspecies Jam
+## Jam Interspecies
 
 The artist Gil Fuser play with the plants, translating in sound their stimuli, captured with sensors, Arduino and SuperCollider. The audience have the opportunity to interact with the plants and thus influence the sound.
 
@@ -43,3 +43,5 @@ For four hours children and accompanying adults were able to experiment with inf
 ![image](./images/bp-06.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
 ![image](./images/bp-07.jpg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
 ![image](./images/bp-08.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+
+[back to top](#band-of-plants)

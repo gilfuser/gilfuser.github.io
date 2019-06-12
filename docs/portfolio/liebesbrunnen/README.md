@@ -6,9 +6,9 @@ The Liebesbrunnen is a medium (or body, perhaps) that contains love. It is not m
 
 The Liebesbrunnen was originally created as an audio-visual installation in the beginnings of 2015 for the first edition of Avanti -experimental short films screening - held in the former silent film theatre, or Ehemaliges Stummfilmkino - Delphi, in Wedding, Berlin. In this edition Avanti’s theme was **The Conceptual Love**.
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/UCU0wByVvRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="420px" src="https://www.youtube.com/embed/UCU0wByVvRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/LYtE9GDte90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="420px" src="https://www.youtube.com/embed/LYtE9GDte90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![image](./images/lb-003.png)
 ![image](./images/lb-004.png)

@@ -9,6 +9,7 @@
   @draw="draw"
   >
   </vue-p5>
+  <br />
   <vue-slider
     v-model="angle" 
     v-bind="options" />
@@ -53,15 +54,11 @@ export default {
   // updated() {
   //   this.test =  this.$parent.$el.offsetWidth
   // },
-  // mounted() {
-  //   this.$nextTick(function() {
-  //     window.addEventListener('resize', this.getWindowWidth);
-  //     window.addEventListener('resize', this.getWindowHeight);
-  //     //Init
-  //     this.getWindowWidth()
-  //     this.getWindowHeight()
-  //   })
-  // },
+  mounted() {
+    this.$nextTick(function() {
+      this.p5CanvasWidth = this.$refs.sk.$parent.$el.clientWidth
+    })
+  },
   methods: {
     getWidth(width) {
       this.$nextTick(() => {
@@ -69,10 +66,6 @@ export default {
         if (this.$refs.sk !== undefined) {
           this.p5CanvasWidth = this.$refs.sk.$parent.$el.clientWidth
         }
-        // this.p5CanvasHeight = this.$refs.sk.$parent.$el.clientHeight
-        // this.p5CanvasWidth = this.$refs.sk.$parent.$el.clientWidth;
-        // this.p5CanvasHeight = this.$refs.sk.$parent.$el.clientHeight;
-        // this.branchesHeight = this.$refs.sk.$parent.$el.clientHeight * 0.25;
         return 0;
       });
     },
@@ -130,10 +123,6 @@ export default {
       // this.test = test
     }
   },
-  beforeDestroy() {
-    window.removeEventListener("resize", this.getWindowWidth);
-    window.removeEventListener("resize", this.getWindowHeight);
-  }
 };
 </script>
 

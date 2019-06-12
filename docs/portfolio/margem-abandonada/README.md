@@ -10,9 +10,7 @@ I had made a set of field recordings in São Paulo (where we both come from) tha
 
 There are three instruments made of code. Two for the field recordings. One makes more chopped bits of sounds and one alters the speed of the reproduction in a turntable fashion. Both are made to be as transparent as possible. With that I mean it shouldn’t be really clear what they do. The layers and textures they made have somewhat of an analog approach of dealing with samples. The third instrument is percussive and tonal made only from white noise. The different envelopes make it behave as various instruments and also gives spacialization.
 
-## SuperCollider Code
-
-[margem-abandonada](https://github.com/gilfuser/margem-abandonada)
+## [SuperCollider Code](https://github.com/gilfuser/margem-abandonada)
 
 ## Hear it
 

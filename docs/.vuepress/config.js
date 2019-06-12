@@ -44,7 +44,7 @@ module.exports = {
               '/portfolio/territorio-vital/',
               '/portfolio/banda-de-plantas/',
               'portfolio/caixa-automagica-de-musica-sensorial/',
-              '/portfolio/algorave/',
+              '/portfolio/algorave-sp/',
               '/portfolio/flou/',
               '/portfolio/liebesbrunnen/',
               '/portfolio/margem-abandonada/',

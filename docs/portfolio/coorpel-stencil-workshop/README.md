@@ -1,5 +1,5 @@
 ---
-sidebarDepth: 0
+sidebarDepth: -1
 ---
 
 # Coopel Stencil Workshop
@@ -34,3 +34,5 @@ While working around what makes sense for the participants and broaden their per
 ![image](./images/coorpel_DSC02400.jpg)
 
 ![image](./images/coorpel_DSC02445.jpg)
+
+[back to top](#coorpel-stencil-workshop)
