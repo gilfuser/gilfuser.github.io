@@ -76,10 +76,16 @@ module.exports = {
           // { text: 'experimentos', link: '/pt/experimentos/' }
         ],
         sidebar: [
-          '/pt/',
-          '/pt/portfolio/',
+          {
+            title: 'portfolio',
+            children: [
+              '/pt/portfolio/estacao-maritaca/',
+              '/pt/portfolio/territorio-vital/',
+              '/pt/portfolio/banda-de-plantas/',
+            ],
+          },
+          '/pt/experimentos/',
           '/pt/pequena-bio/',
-          '/pt/experimentos/'
         ]
       }
     }
