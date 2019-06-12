@@ -8,9 +8,6 @@ Each person can hear sounds created and transformed by their own vital signs thr
 
 I start from the hypothesis that by providing biofeedback and neurofeedback of a group of people through sounds, their internal rhythms harmonize. As a harmony, I do not want to propose that they merge in a unison, but that the proportions between the individual sounds are balanced and from this equilibrium a harmonious sound emerges, in which the proportions are self-balanced and not chaotic.
 
-<video style="max-width:100%;height:auto;" controls>
-  <source src="./video/20180705_212642.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe style="width:100%;height:416px" src="https://www.youtube.com/embed/Ch0wnhBQ-N8?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![image](./images/tv-01.jpg "MOLA - study group and follow-up artists July 5th, 2018" )
