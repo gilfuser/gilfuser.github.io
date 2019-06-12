@@ -17,17 +17,20 @@ module.exports = {
   serviceWorker: true,
   themeConfig: {
     // sidebarDepth: 0,
+    // Assumes GitHub. Can also be a full GitLab url.
+    repo: 'gilfuser/gilfuser.github.io',
+    // docsDir: 'docs',
+    editLinks: false,
+    // custom text for edit link. Defaults to "Edit this page"
+    editLinkText: 'GitHub',
     locales: {
-      // Assumes GitHub. Can also be a full GitLab url.
-      repo: 'gilfuser/gilfuser.github.io',
-      docsDir: 'docs',
       '/': {
         lang: 'en-US',
         title: 'Mixings senses makes sense',
         description: 'works and processes',
         selectText: 'Languages',
         label: 'English',
-        editLinkText: 'Edit this page on Github',
+        // editLinkText: 'Edit this page on Github',
         algolia: {},
         nav: [
           { text: 'Home', link: '/' }
@@ -51,7 +54,7 @@ module.exports = {
               '/portfolio/zauberspiegel/',
               '/portfolio/reklamiertes-kapital/',
               '/portfolio/nos-outros/',
-              '/portfolio/coorpel-stencil-workshop/',
+              '/portfolio/coorpel-stencil-workshop/'
             ]
           },
           {
@@ -59,10 +62,10 @@ module.exports = {
             children: [
               '/experiments/deslugarejo/',
               'experiments/na-pegada-do-saci/',
-              '/experiments/curious-singing/',
+              '/experiments/curious-singing/'
             ]
           },
-          '/short-bio/'
+          '/about-me/'
         ]
       },
       '/pt/': {
@@ -81,13 +84,21 @@ module.exports = {
             children: [
               '/pt/portfolio/estacao-maritaca/',
               '/pt/portfolio/territorio-vital/',
-              '/pt/portfolio/banda-de-plantas/',
-            ],
+              '/pt/portfolio/banda-de-plantas/'
+            ]
           },
           '/pt/experimentos/',
-          '/pt/pequena-bio/',
+          '/pt/pequena-bio/'
         ]
       }
+    },
+    serviceWorker: {
+      updatePopup: true // Boolean | Object, default to undefined.
+      // If set to true, the default text config will be:
+      // updatePopup: {
+      //    message: "New content is available.",
+      //    buttonText: "Refresh"
+      // }
     }
   }
 }
