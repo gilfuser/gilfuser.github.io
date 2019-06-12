@@ -28,6 +28,11 @@
   },
   "homepage": "https://github.com/gilfuser/gilfuser.github.io#readme",
   "devDependencies": {
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.0.0-rc.1"
+  },
+  "dependencies": {
+    "p5": "^0.8.0",
+    "vue-p5": "gilfuser/vue-p5",
+    "vue-slider-component": "^3.0.32"
   }
 }
