@@ -9,7 +9,7 @@ I have been been making visuals and music for performances, and performing mysel
 
 ## CV
 
-2018 and 2019 comming soon
+2018 and 2019 coming soon
 
 ## 2017
 

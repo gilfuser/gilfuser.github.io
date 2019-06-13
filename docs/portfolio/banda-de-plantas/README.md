@@ -11,6 +11,12 @@ Every part has to do with the experience of, with the help of technology, touchi
   <frac-tree class="ft" ref="ft" />
 </ClientOnly>
 
+<br/>
+
+<p style="text-align:center">
+  <strong>drag it 👆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
+
 ## Workshop
 
 In this workshop participants learn to translate into sound, the stimuli captured with the plants using sensors, Arduino and SuperCollider - a platform for audio synthesis and algorithmic composition. We start with an introduction to the SuperCollider and end up interacting with the plants, improvising together.

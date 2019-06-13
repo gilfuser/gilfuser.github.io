@@ -28,12 +28,13 @@ module.exports = {
         lang: 'en-US',
         title: 'Mixings senses makes sense',
         description: 'works and processes',
-        selectText: 'Languages',
+        selectText: 'Português',
         label: 'English',
         // editLinkText: 'Edit this page on Github',
         algolia: {},
         nav: [
-          { text: 'Home', link: '/' }
+          { text: 'Home', link: '/' },
+          { text: 'Contact', link: '/contact/' }
           // { text:'GitHub',  link: 'https://github.com/gilfuser/gilfuser.github.io' },
 
           // { text: 'experiments', link: './experiments/' }
@@ -65,12 +66,13 @@ module.exports = {
               '/experiments/curious-singing/'
             ]
           },
-          '/about-me/'
+          '/about-me/',
+          '/contact/'
         ]
       },
       '/pt/': {
         lang: 'pt-BR',
-        selectText: 'Languages',
+        selectText: 'English',
         label: 'Português',
         algolia: {},
         nav: [
@@ -93,12 +95,12 @@ module.exports = {
       }
     },
     serviceWorker: {
-      updatePopup: true // Boolean | Object, default to undefined.
+      updatePopup: true, // Boolean | Object, default to undefined.
       // If set to true, the default text config will be:
-      // updatePopup: {
-      //    message: "New content is available.",
-      //    buttonText: "Refresh"
-      // }
+      updatePopup: {
+        message: "New content is available.",
+        buttonText: "Refresh"
+      }
     }
   }
 }
