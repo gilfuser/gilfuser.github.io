@@ -5,7 +5,9 @@
 <!-- ### Plants + Arduino + Sensors + SuperCollider -->
 
 **Band of Plants** is a three part project: workshop, jam and chat with the artist.  
-Every part has to do with the experience of, with the help of technology, touching with the plants. Note: not **play the plants**, but, **play with** them.
+Every part has to do with the experience of, with the help of technology, playing with the plants. Note: do not **play the plants**, but, **play with** them.
+
+<br />
 
 <ClientOnly>
   <frac-tree class="ft" ref="ft" />
@@ -19,7 +21,7 @@ Every part has to do with the experience of, with the help of technology, touchi
 
 ## Workshop
 
-In this workshop participants learn to translate into sound, the stimuli captured with the plants using sensors, Arduino and SuperCollider - a platform for audio synthesis and algorithmic composition. We start with an introduction to the SuperCollider and end up interacting with the plants, improvising together.
+In this workshop the participants learn to translate into sound, the stimuli captured with the plants using sensors, [Arduino](https://www.arduino.cc/) and [SuperCollider](https://supercollider.github.io/). We start with an introduction to the SuperCollider and end up interacting with the plants, improvising together.
 
 ## Jam Interspecies
 

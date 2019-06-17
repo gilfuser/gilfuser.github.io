@@ -2,7 +2,7 @@
 
 I'm a media artist because I don't believe that the different art forms should be placed in separate drawers. My research involves various forms of expression and apprehension and how to entangle them all poetically.
 I use sensors, cameras, ordinary everyday objects, garbage, cables, radio modules, prototyping boards and computers running open source software.
-In Berlin, I was a guest student the course Generative Art / Computational Art in the UdK. I still collaborate with artists there, but I'm living in São Paulo, my hometown.
+In Berlin, I was a guest student from 2014 to 2017 at the course Generative Art / Computational Art in the UdK. I still collaborate with artists there, but I'm living in São Paulo, my hometown.
 I have been been making visuals and music for performances, and performing myself alone and alongside with the collective Society for Non Trivial Pursuits, or S4NTP.
 
 ---

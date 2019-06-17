@@ -1,7 +1,48 @@
 module.exports = {
-  markdown: {
+  extendMarkdown (md) {
     lineNumbers: true
   },
+  head: [
+    ['script', {src: "https://kit.fontawesome.com/63ee5d57eb.js"}]
+  ],
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        ga: 'UA-12345678-9'
+      }
+    ],
+    {
+      '@vuepress/pwa': {
+        serviceWorker: true,
+        updatePopup: {
+          '/': {
+            message: 'New content is available.',
+            buttonText: 'Refresh'
+          },
+          '/pt/': {
+            message: 'novo conteúdo disponível',
+            buttonText: 'Recarregar'
+          }
+        }
+      }
+    },
+    [
+      '@vuepress/search',
+      {
+        searchMaxSuggestions: 10
+      }
+    ],
+    'container',
+    '@vuepress/register-components',
+    '@vuepress/active-header-links',
+    {
+      sidebarLinkSelector: '.sidebar-link',
+      headerAnchorSelector: '.header-anchor',
+      headerTopOffset: 120
+    },
+    '@vuepress/nprogress'
+  ],
   locales: {
     '/': {
       lang: 'en-US',
@@ -14,7 +55,6 @@ module.exports = {
       description: 'trabalhos e processos'
     }
   },
-  serviceWorker: true,
   themeConfig: {
     // sidebarDepth: 0,
     // Assumes GitHub. Can also be a full GitLab url.
@@ -92,14 +132,6 @@ module.exports = {
           '/pt/experimentos/',
           '/pt/pequena-bio/'
         ]
-      }
-    },
-    serviceWorker: {
-      updatePopup: true, // Boolean | Object, default to undefined.
-      // If set to true, the default text config will be:
-      updatePopup: {
-        message: "New content is available.",
-        buttonText: "Refresh"
       }
     }
   }

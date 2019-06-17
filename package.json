@@ -28,11 +28,18 @@
   },
   "homepage": "https://github.com/gilfuser/gilfuser.github.io#readme",
   "devDependencies": {
-    "vuepress": "^1.0.0-rc.1"
+    "@vuepress/plugin-active-header-links": "^1.0.0-rc.1",
+    "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
+    "@vuepress/plugin-nprogress": "^1.0.0-rc.1",
+    "@vuepress/plugin-pwa": "^1.0.0-rc.1",
+    "@vuepress/plugin-register-components": "^1.0.0-rc.1",
+    "@vuepress/plugin-search": "^1.0.0-rc.1",
+    "vuepress": "^1.0"
   },
   "dependencies": {
     "p5": "^0.8.0",
     "vue-p5": "gilfuser/vue-p5",
-    "vue-slider-component": "^3.0.32"
+    "vue-slider-component": "^3.0.32",
+    "vuepress-plugin-container": "^2.0.1"
   }
 }
