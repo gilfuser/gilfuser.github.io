@@ -1,4 +1,7 @@
-# Deslugarejo
+---
+sidebarDepth: -1
+---
+# [Deslugarejo](https://github.com/gilfuser/deslugarejo)
 
 ## Disperse Harbour
 
