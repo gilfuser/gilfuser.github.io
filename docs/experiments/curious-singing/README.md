@@ -1,3 +1,0 @@
-# Curious Singing
-
-coming soon

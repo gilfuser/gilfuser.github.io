@@ -1,20 +1,20 @@
 # Algorave SP
 
 <video style="width:100%;height:auto" controls>
-  <source src="./videos/algo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="/videos/algo.mp4" type="video/mp4">
+  seu browser nao tem suporte para video tag
 </video>
 
-Sao Paulo, March 17, 2018
+Sao Paulo, 17 de Marco de 2018
 
-On the occasion of the 6th anniversary of [Algorave](https://algorave.com/about/), AlgoSix was held in several cities around the world and also in São Paulo. All was streamed and joined in a three-day event.
+Por ocasião do 6º aniversário da [Algorave](https://algorave.com/about/), a **AlgoSix** foi realizado em várias cidades do mundo e também em São Paulo. Tudo foi transmitido e unido em um evento de três dias.
 
-Shortly after arriving in Sao Paulo after a period of five years living in Berlin would happen the world event commemorating the six years of the Algorave movement. As there was no one willing to do it and I thought it was important and pertinent to mark our presence at the event, to strengthen the Brazilian live-coding scene, I decided to produce and promote the first Algorave on Brazilian soil. Even without financial support some line up was formed of excellent artists and I had the support of many others.
-Many others will come.
+Logo após chegar em São Paulo após um período de cinco anos vivendo em Berlim, aconteceria o evento mundial comemorativo dos seis anos do movimento Algorave. Como não havia ninguém disposto a fazê-lo e achei que era importante e pertinente marcar nossa presença no evento, para fortalecer a cena brasileira de *live-coding*, decidi produzir e promover a primeira Algorave em solo brasileiro. Mesmo sem apoio financeiro, alinhei-me com excelentes artistas e tive o apoio de outros tantos.  
+Muitas outras virão!
 
-> Algorave has no DJ and no playback, has code! The instruments are the laptops. The music is live coded. Improvised and / or composed while playing. The codes are designed for everyone to follow and sing along.
+> Algorave não tem DJ e não tem playback, tem código! Os instrumentos são os laptops. A música é codificada ao vivo, improvisada e/ou composta enquanto é tocada. Os códigos são projetados para que todos sigam e cantem junto.
 
-My great gratitude to the artists who participated:
+Imensa gratidão aos artistas que participaram:
 
 LV - SuperCollider + SANDRO MICCOLI  
 BEISE TidalCyles + SuperCollider  
@@ -22,15 +22,18 @@ BEISE TidalCyles + SuperCollider
 SKMECS (A Society for Non Trivial Pursuits) - TidalCycles + SuperCollider  
  \+ CABELO (Bijari) - Resolume  
 RICARDO CARIOBA - MPC + Microprocessador  
-ALEXANDRE PORRES - Pure Data + SuperCollider
+ALEXANDRE PORRES - Pure Data + SuperCollider  
+LUIZA XAVIER - Streaming
 
-![flyer](./images/flyer2-Seite001.png)
+![flyer](/images/algo/flyer2-Seite001.png)
 
-[back to top](#algorave-sp)
+[volta ao topo](#algorave-sp)
 
 ---
 
-## The gigs
+## As apresentações
+
+<br />
 
 <iframe width="100%" height="420px" src="https://www.youtube.com/embed/L_Z1cSNNH1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -40,20 +43,20 @@ ALEXANDRE PORRES - Pure Data + SuperCollider
 
 ### [Algorave 2018 Playlist](https://www.youtube.com/playlist?list=PLMBIpibV-wQIxnJ2juNj5CDfK6zF3Elcv)
 
-[back to top](#algorave-sp)
+[volta ao topo](#algorave-sp)
 
 ---
 
-## TOPLAP15 Birthday Celebration
+## TOPLAP15 - Celebração de Aniversário
 
-17, February, 2019
+17 de fevereiro de 2019
 
-> 86 hours of live streamed music and visuals from around the world in celebration of [TOPLAP](https://toplap.org/)'s 15th birthday.
+> 86 horas de música transmitida ao vivo e visuais de todo o mundo em comemoração ao 15º aniversário do [TOPLAP](https://toplap.org/).
 
-This year I decided to focus on my session, so, I participated in from home sending my streamming.
+Este ano decidi focar na minha sessão, então, participei de casa enviando o meu *streaming*.
 
-<iframe width="100%" height="420px" src="https://www.youtube.com/embed/8SAunZxw0zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>If you can't see a video player here, you can turn off your Add Blocker for this page. It's a YouTube thing. Sorry about that.</iframe>
+<iframe width="100%" height="420px" src="https://www.youtube.com/embed/8SAunZxw0zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>Se você não conseguir ver um player de vídeo aqui, desative o Bloqueador de adicionar para esta página. É uma coisa do YouTube. Me desculpe por isso.</iframe>
 
 ### [TOPLAP15 Birthday Celebration Playlist](https://www.youtube.com/playlist?list=PLMBIpibV-wQKVN8RtE_uCyk1E37A2qRZ5)
 
-[back to top](#algorave-sp)
+[volta ao topo](#algorave-sp)

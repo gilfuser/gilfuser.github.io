@@ -70,7 +70,7 @@ export default {
       });
     },
     branch(sketch, len) {
-      let thickness = 4;
+      let thickness = 3;
       sketch.strokeWeight(thickness);
       sketch.line(0, 0, 0, -len);
       sketch.translate(0, -len);

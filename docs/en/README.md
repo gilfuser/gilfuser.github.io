@@ -8,7 +8,7 @@ sidebar: false
       Gil Fuser
     </h1>
     <p class="description">
-        trabalhos e processos
+        works and processes
     </p>
   </header>
   <div class="features">
@@ -19,26 +19,26 @@ sidebar: false
         </a>
       </h2>
         <p>
-        Meus trabalhos desde tempos imemoriais até {{ new Date().toLocaleString() }}
+        My works from time immemorial until {{ new Date().toLocaleString() }}
         </p>
       </div>
     <div class="feature">
       <h2 class="action">
-        <a href="/experimentos/deslugarejo/" class="nav-link action-button">
-        Experimentos
+        <a href="/experiments/deslugarejo/" class="nav-link action-button">
+        Experiments
         </a>
       </h2>
       <p>
-      Trabalhos em processo, sem prazo máximo ou criados para contexto de pura experimentacao
+      Works in progress, without deadlines or done in contexts of pure experimentation
       </p>
     </div>
     <div class="feature">
       <h2 class="action">
-        <a href="/sobre-mim/" class="nav-link action-button">
-        Sobre mim
+        <a href="/about-me/" class="nav-link action-button">
+        About Me
         </a>
       </h2>
-      <p>Micro-Bio e CV</p>
+      <p>Micro-Bio and CV</p>
     </div>
   </div>
   <div class="theme-default-content custom content__default">

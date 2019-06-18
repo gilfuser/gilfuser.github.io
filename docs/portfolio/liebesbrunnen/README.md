@@ -1,76 +1,78 @@
 # Liebesbrunnen
 
-![image](./images/lb-000.png)
+![image](/images/liebes/lb-000.png)
 
-The Liebesbrunnen is a medium (or body, perhaps) that contains love. It is not meant to provide answers. It is one possible way to observe, experiment, play and connect with what happens inside us. It shows that love is not as beautiful, pure and clean, as one may think. Large and small movements can cause dramatic shifts inside. The Liebesbrunnen depends on observation, experimentation, gestures with human scale. In his momentum it creates sense and adds a new layer of meaning, proposing a question: how much love depends on interaction?
+O Liebesbrunnen é um meio (ou corpo, talvez) que contém amor. Não se destina a fornecer respostas. É uma maneira possível de observar, experimentar, brincar e se conectar com o que acontece dentro de nós. Isso mostra que o amor não é tão bonito, puro e limpo, como se pode pensar. Movimentos grandes e pequenos podem causar mudanças drásticas no interior. O Liebesbrunnen depende da observação, experimentação, gestos em escala humana. Em seu *momentum*, cria sentido e acrescenta uma nova camada de significado, propondo uma pergunta: quanto amor depende da interação?
 
-The Liebesbrunnen was originally created as an audio-visual installation in the beginnings of 2015 for the first edition of Avanti -experimental short films screening - held in the former silent film theatre, or Ehemaliges Stummfilmkino - Delphi, in Wedding, Berlin. In this edition Avanti’s theme was **The Conceptual Love**.
+O Liebesbrunnen foi originalmente criado como uma instalação audiovisual no início de 2015 para a primeira edição do festival Avanti - curtas-metragens experimentais - realizada no antigo cinema mudo, ou Ehemaliges Stummfilmkino - Delphi, em Wedding, Berlim. Nesta edição, o tema do Avanti foi **O Amor Conceitual**.
 
 <iframe width="100%" height="420px" src="https://www.youtube.com/embed/UCU0wByVvRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="420px" src="https://www.youtube.com/embed/LYtE9GDte90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![image](./images/lb-003.png)
-![image](./images/lb-004.png)
+![image](/images/liebes/lb-003.png)
+![image](/images/liebes/lb-004.png)
 
-![image](./images/lb-002.png)
-![image](./images/lb-005.png)
-![image](./images/lb-006.png)
-![image](./images/lb-007.png)
-![image](./images/lb-008.png)
-![image](./images/lb-009.png)
-![image](./images/lb-010.png)
-![image](./images/lb-011.png)
-![image](./images/lb-012.png)
-![image](./images/lb-013.png)
-![image](./images/lb-014.png)
-![image](./images/lb-015.png)
-![image](./images/lb-016.png)
-![image](./images/lb-017.png)
+![image](/images/liebes/lb-002.png)
+![image](/images/liebes/lb-005.png)
+![image](/images/liebes/lb-006.png)
+![image](/images/liebes/lb-007.png)
+![image](/images/liebes/lb-008.png)
+![image](/images/liebes/lb-009.png)
+![image](/images/liebes/lb-010.png)
+![image](/images/liebes/lb-011.png)
+![image](/images/liebes/lb-012.png)
+![image](/images/liebes/lb-013.png)
+![image](/images/liebes/lb-014.png)
+![image](/images/liebes/lb-015.png)
+![image](/images/liebes/lb-016.png)
+![image](/images/liebes/lb-017.png)
 
-[back to top](#liebesbrunnen)
+[volta ao topo](#liebesbrunnen)
 
-## ACTS WITH THE LIEBESBRUNNEN
+## ATOS COM O LIEBESBRUNNEN
 
 ### Coexistence
 
 Nová Synagóga / Art Galery Žilina, Slovakia, 2016
 
-A performance night from the S4NTP in Zilina.
-Series of short concerts from participants from S4NTP.
+#### A performance night from the S4NTP in Zilina.
+Serie de concertos com os participantes da S4NTP (Society for Non-Trivial Pursuits).
 
 ### Moving Poets Festival–All That s Jazz
 
 Schöneweide, Berlin,  
-11th July 2015.  
-The Liebesbrunnen was presented in a short concert acompanied by a dancer in the Festival Moving Poets. In that occasion some fellow students played short concerts too, and we together, as an ensemble, played network music.
+11t de julho de 2015.
 
-From Moving Poets website:
+O Liebesbrunnen foi apresentado em um pequeno concerto acompanhado por uma dançarina no Festival Moving Poets. Naquela ocasião, alguns colegas também tocavam concertos curtos, e em conjunto, tocávamos música em rede.
 
-> Moving Poets is an international community of artists. Our focus is to give artists from various fields, cultures and age groups the opportunity to inspire each other and collectively create in a mutual place.
+Do website [Moving Poets](https://movingpoets.org/concrete5/index.php/novilla):
+
+> Moving Poets é uma comunidade internacional de artistas. Nosso foco é dar a artistas de vários campos, culturas e grupos etários a oportunidade de inspirar uns aos outros e criar coletivamente em um lugar de reciprocidade.
 
 ### Music Makers Hacklab–A Score for Uncertainty
 
 ICAS Festival, Dresden,  
-27th April–03rd May 2015.  
+27 de abril a 3 de maio de 2015.  
 The album HMML–Score for Uncertainty is available [here](https://mmhl.bandcamp.com/album/score-for-uncertainty).
 
-> Hosted by the Interspecifics collective and Alberto de Campo, Score for Uncertainty was a seven day long collaborative laboratory focused on the creation of a sound composition from an unknown future using existing but novel instruments and sound catalogues. Participants collaborated in intensive improvisational sessions aiming to analyse the way in which new devices could be involved in the creation of a futuristic soundscape. The result was presented as a live concert at the end of the ICAS Festival week in Dresden.
+> Organizado pelo coletivo [Interspecifics](http://interspecifics.cc/work/) e Alberto de Campo, o Score for Uncertainty (Partitura para a Incerteza) foi um laboratório colaborativo de sete dias focado na criação de uma composição sonora de um futuro desconhecido usando instrumentos existentes e novos e catálogos de sons. Os participantes colaboraram em sessões intensivas de improvisação com o objetivo de analisar a maneira pela qual novos dispositivos poderiam estar envolvidos na criação de uma paisagem sonora futurista. O resultado foi apresentado como um concerto ao vivo no final da semana do [Festival ICAS](http://parsecmonitor.de/icasfestival/index.php) em Dresden.
 
 ### UdK Medienhaus Rundgang
 
-20th July 2015.  
-The Liebesbrunnen presented in the famous Raum 111. All the glory of the room’s sound-system contributed to a deep and
-intense session with the Liebesbrunnen.
-Spektrum, 14th Februar 2016.
-The Liebesbrunnen presented in the regular presentations of TSoNP in Spektrum, which is a space of convergence for cultural
-communities and transdisciplinary groups emerging and operating in and off Berlin
+20 de julho de 2015.  
+
+O Liebesbrunnen apresentado na famosa sala 111. Toda a glória do sistema de som da sala contribuiu para uma sessão profunda e intensa com o Liebesbrunnen.
+
+### Spektrum, 14 de fevereiro de 2016
+
+O Liebesbrunnen apresentado como parte das apresentações regulares da S4NTP no Spektrum, *um espaço de convergência para a cultura comunidades e grupos transdisciplinares emergentes e operando dentro e fora de Berlim*.
 
 ### Avanti Experimental Film Screening
 
 Ehemaliges Stummfilmkino Delphi Wedding,  
-Berlin,30th February 2015.  
-As an interactive sculpture, the public had the opportunity to experiment the Liebesbrunnen while seeing the projection
-made by it.
+30 de fevereiro de 2015, Berlim
 
-[back to top](#liebesbrunnen)
+Apresentado como uma escultura interativa, o público teve a oportunidade de experimentar o Liebesbrunnen ao ver a projeção feita por ele.
+
+[volta ao topo](#liebesbrunnen)

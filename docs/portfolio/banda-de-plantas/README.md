@@ -1,11 +1,11 @@
-# Band of Plants
+# Banda de Plantas
 
-![image](./images/bp-00.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+![banda de plantas](/images/banda/bp-00.jpeg "Banda de Plantas,  02 de Junho de 2018 - Sesc Sto Amaro, Sao Paulo")
 
 <!-- ### Plants + Arduino + Sensors + SuperCollider -->
 
-**Band of Plants** is a three part project: workshop, jam and chat with the artist.  
-Every part has to do with the experience of, with the help of technology, playing with the plants. Note: do not **play the plants**, but, **play with** them.
+Banda de Plantas é um projeto de três partes: oficina, jam e bate-papo com o artista.
+Cada parte tem a ver com a experiência de, com a ajuda da tecnologia, tocar com as plantas. Nota: não **tocar as** plantas, mas, **tocar com** elas.
 
 <br />
 
@@ -16,40 +16,40 @@ Every part has to do with the experience of, with the help of technology, playin
 <br/>
 
 <p style="text-align:center">
-  <strong>drag it 👆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+  <strong>arraste 👆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 
 ## Workshop
 
-In this workshop the participants learn to translate into sound, the stimuli captured with the plants using sensors, [Arduino](https://www.arduino.cc/) and [SuperCollider](https://supercollider.github.io/). We start with an introduction to the SuperCollider and end up interacting with the plants, improvising together.
+Neste workshop os participantes aprendem a traduzir em som, os estímulos capturados com as plantas utilizando sensores, [Arduino](https://www.arduino.cc/) e [SuperCollider](https://supercollider.github.io/ ). Começamos com uma introdução ao SuperCollider e terminamos interagindo com as plantas, improvisando juntas.
 
-## Jam Interspecies
+## Jam Interespécies
 
-The artist Gil Fuser play with the plants, translating in sound their stimuli, captured with sensors, Arduino and SuperCollider. The audience have the opportunity to interact with the plants and thus influence the sound.
+O artista Gil Fuser toca com as plantas, traduzindo em som seus estímulos, captados com sensores, Arduino e SuperCollider. O público tem a oportunidade de interagir com as plantas e, assim, influenciar o som.
 
-## Chat with the artist
+## Bate-papo com o artista
 
-After the jam the artist explains the technical and theoretical details involved in the performance and answers the questions of the interested. It exposes and breaks down sound-related codes, sensors, sensory aspects of plants, electronics, and data flow.
+Depois da jam o artista explica os detalhes técnicos e teóricos envolvidos na performance e responde as perguntas dos interessados. Ele expõe e esmiuça os códigos relacionados ao som, sensores, aspectos sensoriais de plantas, eletrônicos e fluxo de dados.
 
-[back to top](#band-of-plants)
+[volta ao topo](#banda-de-plantas)
 
 ---
 
-### Band of Plants for Children
+### Banda de Plantas para Criancas
 
-02 June, 2018,  
+02 de Junho de 2018,  
 Sesc Sto Amaro, Sao Paulo
 
-On the occasion of the project Ideas and Actions for a New Time, conducted by the area of Education for Sustainability of Sesc São Paulo, I was invited to do stripped down version of **Band of Plants** adapted for children.  
-For four hours children and accompanying adults were able to experiment with influencing the sound by playing with the plants and also could ask questions and talk about what was happening there.
+Por ocasião do projeto Ideias e Ações para um Novo Tempo, realizado pela área de Educação para a Sustentabilidade do Sesc São Paulo, fui convidado a fazer a versão despojada de **Banda de Plantas** adaptada para crianças.
+Durante quatro horas, as crianças e os adultos acompanhantes puderam experimentar influenciar o som tocando com as plantas e também puderam fazer perguntas e falar sobre o que acontecia ali.
 
-![image](./images/bp-01.jpg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
-![image](./images/bp-02.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
-![image](./images/bp-03.jpg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
-![image](./images/bp-04.jpg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
-![image](./images/bp-05.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
-![image](./images/bp-06.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
-![image](./images/bp-07.jpg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
-![image](./images/bp-08.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+![image](/images/banda/bp-01.jpg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+![image](/images/banda/bp-02.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+![image](/images/banda/bp-03.jpg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+![image](/images/banda/bp-04.jpg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+![image](/images/banda/bp-05.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+![image](/images/banda/bp-06.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+![image](/images/banda/bp-07.jpg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
+![image](/images/banda/bp-08.jpeg "Banda de Plantas 02 June 2018 - Sesc Sto Amaro, Sao Paulo")
 
-[back to top](#band-of-plants)
+[volta ao topo](#banda-de-plantas)

@@ -1,19 +1,25 @@
+---
+sidebarDepth: -1
+---
+
 # Margem Abandonada
 
-![image](./images/ma-001.png)
+![image](/images/margem/ma-001.png)
 
-Mariana Senne invited me with a broad idea of something about sounds and music she would like to have in the performance that she was creating alongside with the also theater-makers Gianna Pargätzi (HI/GI) and Laura Kallenbach, the visual artist Jan Brokov and the choreographer Lu Favoreto. A collaboration between Brazilian and German artists.
+A atriz e *performer* Mariana Senne me convidou com uma idéia ampla sobre sons e música que ela gostaria de ter na performance que estava criando junto com as também teatrólogas Gianna Pargätzi (HI / GI) e Laura Kallenbach, o artista visual Jan Brokov e a coreógrafa Lu Favoreto. Uma colaboração entre artistas brasileiras e alemãs.
 
-The inspiration for their performance is the text from Heiner Müller Landschaft mit Argonauten. Medea, child of the Sun, a foreign, a second-class citizen, could be Senne herself, a Brazilian in Europe nowadays: an isle of fascination and fear for and of foreigners. Cultural (or should we say financial?) identity was a central issue of the performance. The meanings, the reasons and how is to be a Brazilian in Germany and Europe.
+A inspiração para a sua performance é o texto da Heiner Müller Landschaft mit Argonauten. Medea, filha do Sol, uma estrangeira, cidadã de segunda classe, poderia ser a própria Senne, uma brasileira na Europa hoje em dia: uma ilha de fascinação e medo para os estrangeiros. A identidade cultural (ou deveríamos dizer financeira?) Era uma questão central da perfomance. Os significados, as razões e como é ser brasileiro na Alemanha e na Europa.
 
-I had made a set of field recordings in São Paulo (where we both come from) that were used as material for soundscapes with which I tried to find where our internal soundscapes meet the everyday-life ordinary and familiar sounds. Two of these soundscapes were immediately incorporated in the rehearsal and research process. In the meantime I could develop with Supercollider new soundscapes, mixing field recordings made both in São Paulo and Berlin, in a way that should be easy and flexible to be adapted and follow the creative processes of the performance.
+---
 
-There are three instruments made of code. Two for the field recordings. One makes more chopped bits of sounds and one alters the speed of the reproduction in a turntable fashion. Both are made to be as transparent as possible. With that I mean it shouldn’t be really clear what they do. The layers and textures they made have somewhat of an analog approach of dealing with samples. The third instrument is percussive and tonal made only from white noise. The different envelopes make it behave as various instruments and also gives spacialization.
+Eu tinha um conjunto de gravações de campo que fizera em São Paulo (de onde nós dois viemos) que foram usadas como material para paisagens sonoras com as quais tentei encontrar onde nossas paisagens sonoras internas atendem aos sons comuns e familiares da vida cotidiana. Duas dessas paisagens sonoras foram imediatamente incorporadas ao processo de ensaio e pesquisa. Nesse meio tempo pude desenvolver por intermédio do SuperCollider novas paisagens sonoras, mesclando gravações de campo feitas tanto em São Paulo quanto em Berlim, de uma forma que deveria ser fácil e flexível para ser adaptada e acompanhar os processos criativos da performance.
 
-## [SuperCollider Code](https://github.com/gilfuser/margem-abandonada)
+Existem três instrumentos feitos de código. Dois para as gravações de campo. Um faz pedaços de sons mais cortados e um altera a velocidade da reprodução como um toca-discos. Ambos são feitos para serem tão transparentes quanto possível. Com isso quero dizer que não deveria estar muito claro o que eles fazem. As camadas e texturas que eles criam têm uma abordagem analógica de lidar com os *samples*. O terceiro instrumento é percussivo e tonal feito apenas a partir de *ruído branco*. Os diferentes envelopes fazem com que se comportem como vários instrumentos e também dão espacialização.
+
+## [Código em SuperCollider](https://github.com/gilfuser/margem-abandonada)
 
 ## Hear it
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/156905876&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-[back to top](#margem-abandonada)
+[volta ao topo](#margem-abandonada)

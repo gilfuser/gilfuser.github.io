@@ -2,9 +2,7 @@ module.exports = {
   extendMarkdown (md) {
     lineNumbers: true
   },
-  head: [
-    ['script', {src: "https://kit.fontawesome.com/63ee5d57eb.js"}]
-  ],
+  head: [['script', { src: 'https://kit.fontawesome.com/63ee5d57eb.js' }]],
   plugins: [
     [
       '@vuepress/google-analytics',
@@ -16,11 +14,11 @@ module.exports = {
       '@vuepress/pwa': {
         serviceWorker: true,
         updatePopup: {
-          '/': {
+          '/en/': {
             message: 'New content is available.',
             buttonText: 'Refresh'
           },
-          '/pt/': {
+          '/': {
             message: 'novo conteúdo disponível',
             buttonText: 'Recarregar'
           }
@@ -44,15 +42,15 @@ module.exports = {
     '@vuepress/nprogress'
   ],
   locales: {
-    '/': {
+    '/en/': {
       lang: 'en-US',
-      title: 'Gil Fuser',
-      description: 'works and processes'
+      title: 'Mixing senses makes sense',
+      description: 'works in digression'
     },
-    '/pt/': {
+    '/': {
       lang: 'pt-BR',
       title: 'Misturar sentidos faz sentido',
-      description: 'trabalhos e processos'
+      description: 'trabalhos em digressão'
     }
   },
   themeConfig: {
@@ -64,10 +62,10 @@ module.exports = {
     // custom text for edit link. Defaults to "Edit this page"
     editLinkText: 'GitHub',
     locales: {
-      '/': {
+      '/en/': {
         lang: 'en-US',
-        title: 'Mixings senses makes sense',
-        description: 'works and processes',
+        title: 'Mixing senses makes sense',
+        description: 'works in digression',
         selectText: 'Português',
         label: 'English',
         // editLinkText: 'Edit this page on Github',
@@ -83,34 +81,34 @@ module.exports = {
           {
             title: 'portfolio',
             children: [
-              '/portfolio/campo/',
-              '/portfolio/estacao-maritaca/',
-              '/portfolio/territorio-vital/',
-              '/portfolio/banda-de-plantas/',
-              'portfolio/caixa-automagica-de-musica-sensorial/',
-              '/portfolio/algorave-sp/',
-              '/portfolio/flou/',
-              '/portfolio/liebesbrunnen/',
-              '/portfolio/margem-abandonada/',
-              '/portfolio/zauberspiegel/',
-              '/portfolio/reklamiertes-kapital/',
-              '/portfolio/nos-outros/',
-              '/portfolio/coorpel-stencil-workshop/'
+              '/en/portfolio/campo/',
+              '/en/portfolio/estacao-maritaca/',
+              '/en/portfolio/territorio-vital/',
+              '/en/portfolio/banda-de-plantas/',
+              '/en/portfolio/caixa-automagica-de-musica-sensorial/',
+              '/en/portfolio/algorave-sp/',
+              '/en/portfolio/flou/',
+              '/en/portfolio/liebesbrunnen/',
+              '/en/portfolio/margem-abandonada/',
+              '/en/portfolio/zauberspiegel/',
+              '/en/portfolio/reklamiertes-kapital/',
+              '/en/portfolio/nos-outros/',
+              '/en/portfolio/coorpel-stencil-workshop/'
             ]
           },
           {
             title: 'Experiments',
             children: [
-              '/experiments/deslugarejo/',
-              'experiments/na-pegada-do-saci/',
-              '/experiments/curious-singing/'
+              '/en/experiments/deslugarejo/',
+              '/en/experiments/na-pegada-do-saci/',
+              '/en/experiments/curious-singing/'
             ]
           },
-          '/about-me/',
-          '/contact/'
+          '/en/about-me/',
+          '/en/contact/'
         ]
       },
-      '/pt/': {
+      '/': {
         lang: 'pt-BR',
         selectText: 'English',
         label: 'Português',
@@ -124,13 +122,31 @@ module.exports = {
           {
             title: 'portfolio',
             children: [
-              '/pt/portfolio/estacao-maritaca/',
-              '/pt/portfolio/territorio-vital/',
-              '/pt/portfolio/banda-de-plantas/'
+              '/portfolio/campo/',
+              '/portfolio/estacao-maritaca/',
+              '/portfolio/territorio-vital/',
+              '/portfolio/banda-de-plantas/',
+              '/portfolio/caixa-automagica-de-musica-sensorial/',
+              '/portfolio/algorave-sp/',
+              '/portfolio/flou/',
+              '/portfolio/liebesbrunnen/',
+              '/portfolio/margem-abandonada/',
+              '/portfolio/zauberspiegel/',
+              '/portfolio/reklamiertes-kapital/',
+              '/portfolio/nos-outros/',
+              '/portfolio/coorpel-stencil-workshop/'
             ]
           },
-          '/pt/experimentos/',
-          '/pt/pequena-bio/'
+          {
+            title: 'Experimentos',
+            children: [
+              '/experimentos/deslugarejo/',
+              '/experimentos/na-pegada-do-saci/',
+              '/experimentos/curious-singing/'
+            ]
+          },
+          '/sobre-mim/',
+          '/contato/'
         ]
       }
     }
