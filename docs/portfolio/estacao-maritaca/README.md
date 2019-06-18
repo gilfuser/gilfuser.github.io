@@ -1,8 +1,8 @@
-# Estacao Maritaca
+# Estação Maritaca
 
 ![image](/images/maritaca/vm-00.jpg)
 
-Por ocasião do evento Estação Maritaca no SESC Pompéia em outubro de 2018, criei duas traquitanas e dei uma oficina onde as crianças construíram um "brinquedo musical". A ideia por trás do evento, desenhada pela artista Mariana Piza, foi proporcinar às crianças experiências de uma emissora de rádio.
+Por ocasião do evento Estação Maritaca no SESC Pompéia em outubro de 2018, criei duas traquitanas e dei uma oficina onde as crianças construíram um "brinquedo musical". A ideia por trás do evento, concebida pela artista Mariana Piza, foi proporcinar às crianças experiências de uma emissora de rádio.
 
 ---
 

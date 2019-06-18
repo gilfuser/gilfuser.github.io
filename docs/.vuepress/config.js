@@ -44,12 +44,12 @@ module.exports = {
   locales: {
     '/en/': {
       lang: 'en-US',
-      title: 'Mixing senses makes sense',
-      description: 'works in digression'
+      title: 'works in digress',
+      description: 'works in digress'
     },
     '/': {
       lang: 'pt-BR',
-      title: 'Misturar sentidos faz sentido',
+      title: 'trabalhos em digressão',
       description: 'trabalhos em digressão'
     }
   },

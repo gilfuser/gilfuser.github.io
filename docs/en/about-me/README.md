@@ -9,7 +9,65 @@ I have been been making visuals and music for performances, and performing mysel
 
 ## CV
 
-2018 and 2019 coming soon
+## 2019
+
+### C A M P O
+
+25th and 26th of May, SESC Interlagos, São Paulo
+
+Live music made by codes for the performance C A M P O.
+
+> C A M P O as an infinite garden, which can cross cities and enhance unique encounters and creative intensities.
+
+[more details](/eng/portfolio/campo/)
+
+## 2018
+
+### Maritaca Station
+
+12 to 25 October, SESC Pompéia, São Paulo
+
+On the occasion of the Maritaca Station event at SESC Pompéia in October 2018, I created two gadgets and gave a workshop where the children built a "musical toy". The idea behind the event, designed by the artist Mariana Piza, was to provide the children with experiences of a radio station.
+
+[more details](/eng/portfolio/estacao-maritaca/)
+
+### Vital Territory
+
+July 5, 2018,
+Tomie Ohtake Institute, Sao Paulo
+
+Performance in which four people are connected to heart rate and breathing sensors.
+The data extracted from the sensors are transformed into parameters of digital synthesizers specially created for the performance with the use of [SuperCollider](https://supercollider.github.io/).
+
+[more details](/eng/portfolio/territorio-vital/)
+
+### Band of Plants for Children
+
+June 2, 2018,
+Sesc Sto Amaro, Sao Paulo
+
+On the occasion of the Ideas and Actions for a New Time project, carried out by the Education for Sustainability area of Sesc São Paulo, I was invited to do the stripped-down version of **Banda de Plantas** adapted for children.  
+For four hours, the children and accompanying adults were able to experiment with influencing the sound by playing with the plants and also could ask questions and talk about what was happening there.
+
+[more details](/portfolio/banda-de-plantas/)
+
+### Automagic Box of Sensory Music
+
+São Paulo, May 12, 2018
+
+On Scratch Day at Escola da Vila School, I proposed something different from [Scratch](https://scratch.mit.edu/), but related to art and technology: a box-shaped instrument, played with light and shadow, movement, vibration and buttons.
+
+[more details](/eng/portfolio/automagica-de-musica-sensorial/)
+
+### Algorave SP
+
+São Paulo, March 17, 2018
+
+On the 6th anniversary of [Algorave](https://algorave.com/about/), **AlgoSix** was held in several cities around the world and also in São Paulo. Everything was broadcast and put together in a three-day event.
+
+Production and promotion of the first Algorave in Brazil.
+
+[more details](/eng/portfolio/algorave-sp/)
 
 ## 2017
 

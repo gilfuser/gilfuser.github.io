@@ -5,7 +5,7 @@
   seu browser nao tem suporte para video tag
 </video>
 
-Sao Paulo, 17 de Marco de 2018
+São Paulo, 17 de março de 2018
 
 Por ocasião do 6º aniversário da [Algorave](https://algorave.com/about/), a **AlgoSix** foi realizado em várias cidades do mundo e também em São Paulo. Tudo foi transmitido e unido em um evento de três dias.
 

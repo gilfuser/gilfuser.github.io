@@ -8,7 +8,7 @@ sidebar: false
       Gil Fuser
     </h1>
     <p class="description">
-        trabalhos e processos
+        trabalhos em digressão
     </p>
   </header>
   <div class="features">

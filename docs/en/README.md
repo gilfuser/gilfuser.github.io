@@ -8,13 +8,13 @@ sidebar: false
       Gil Fuser
     </h1>
     <p class="description">
-        works and processes
+        works in digress
     </p>
   </header>
   <div class="features">
     <div class="feature">
       <h2 class="action">
-        <a href="/portfolio/campo/" class="nav-link action-button">
+        <a href="/en/portfolio/campo/" class="nav-link action-button">
         Portfolio
         </a>
       </h2>
@@ -24,7 +24,7 @@ sidebar: false
       </div>
     <div class="feature">
       <h2 class="action">
-        <a href="/experiments/deslugarejo/" class="nav-link action-button">
+        <a href="/en/experiments/deslugarejo/" class="nav-link action-button">
         Experiments
         </a>
       </h2>
@@ -34,7 +34,7 @@ sidebar: false
     </div>
     <div class="feature">
       <h2 class="action">
-        <a href="/about-me/" class="nav-link action-button">
+        <a href="/en/about-me/" class="nav-link action-button">
         About Me
         </a>
       </h2>

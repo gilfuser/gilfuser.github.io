@@ -35,7 +35,7 @@ Depois da jam o artista explica os detalhes técnicos e teóricos envolvidos na 
 
 ---
 
-### Banda de Plantas para Criancas
+### Banda de Plantas para Crianças
 
 02 de Junho de 2018,  
 Sesc Sto Amaro, Sao Paulo

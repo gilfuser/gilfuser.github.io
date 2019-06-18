@@ -1,6 +1,6 @@
 # Caixa Automágica de Música Sensorial
 
-Na ocasião do Scratch Day na Escola da Vila, propus algo diferente do [Scratch](https://scratch.mit.edu/), porém relaciona a arte e tecnologia: um instrumento em forma de caixa, tocado com luz e sombra, movimento , vibração e botões.
+Por ocasião do Scratch Day na Escola da Vila, propus algo diferente do [Scratch](https://scratch.mit.edu/), porém relacionado à arte e tecnologia: um instrumento em forma de caixa, tocado com luz e sombra, movimento ,vibração e botões.
 
 > A caixa pode ser aberta para que você possa ver por dentro como ela funciona e o inventor-artista pode explicar tudo para quem quer saber sobre os sensores, elementos eletrônicos e códigos que fazem a mágica acontecer.
 
