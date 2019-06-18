@@ -115,7 +115,7 @@ module.exports = {
         algolia: {},
         nav: [
           { text: 'Casa', link: '/' },
-          { text: 'Contact', link: '/contato/' }
+          { text: 'Contato', link: '/contato/' }
           // { text:'GitHub', link: 'https://github.com/gilfuser/gilfuser.github.io' },
           // { text: 'experimentos', link: '/pt/experimentos/' }
         ],
