@@ -71,8 +71,8 @@ module.exports = {
         // editLinkText: 'Edit this page on Github',
         algolia: {},
         nav: [
-          { text: 'Home', link: '/en/' },
-          { text: 'Contact', link: '/en/contact/' }
+          { text: 'Home', link: '/' },
+          { text: 'Contact', link: '/contact/' }
           // { text:'GitHub',  link: 'https://github.com/gilfuser/gilfuser.github.io' },
 
           // { text: 'experiments', link: './experiments/' }
