@@ -49,7 +49,7 @@ Inside the metal case is a Teensy development board attached to a specific audio
 
 ## Traquitronic - Musical Toy Workshop
 
-![image](/images/maritaca/mw-00.jpg)
+![image](/images/maritaca/mw-01.jpg)
 
 In this workshop aimed at children from the age of eight, we built simple electronic instruments together, with simple elements, without soldering or complicated circuits. They can touch them with gestures, controlling the light, and buttons, and still combine the instruments of each other.
 At the end participants can bring their instruments home.
@@ -64,7 +64,6 @@ At the end participants can bring their instruments home.
 Based on an integrated circuit, we build on a prototyping board a simple circuit that generates electrical pulses at audible frequencies, which we hear through small speakers. Frequencies can be modulated using light sensors and rotary knobs.
 In the end, as experimentation, the instruments can be combined together, generating cross modulation and thus, more complex sounds.
 
-![image](/images/maritaca/mw-01.jpg)
 ![image](/images/maritaca/mw-03.jpg)
 
 <iframe style="width:100%;height:416px;" src="https://www.youtube.com/embed/px9Je3Rxayc?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -99,8 +99,11 @@ module.exports = {
           {
             title: 'Experiments',
             children: [
-              '/en/experiments/deslugarejo/',
-              '/en/experiments/na-pegada-do-saci/',
+              ['https://github.com/gilfuser/deslugarejo', 'Deslugarejo'],
+              [
+                'https://gilfuser.github.io/na-pegada-do-saci/',
+                'Na Pegada do Saci'
+              ],
               '/en/experiments/curious-singing/'
             ]
           },
@@ -141,8 +144,11 @@ module.exports = {
           {
             title: 'Experimentos',
             children: [
-              '/experimentos/deslugarejo/',
-              '/experimentos/na-pegada-do-saci/',
+              ['https://github.com/gilfuser/deslugarejo', 'Deslugarejo'],
+              [
+                'https://gilfuser.github.io/na-pegada-do-saci/',
+                'Na Pegada do Saci'
+              ],
               '/experimentos/curious-singing/'
             ]
           },

@@ -51,7 +51,7 @@ Dentro do gabinete de metal há uma placa de desenvolvimento Teensy conectada a 
 
 ## Traquitronica - Oficina de Brinquedo Musical
 
-![image](/images/maritaca/mw-00.jpg)
+![image](/images/maritaca/mw-01.jpg)
 
 Nesta oficina destinada a crianças a partir dos sete anos de idade acompanhadas de adultos, construímos juntos instrumentos eletrônicos simples, com elementos simples, sem circuitos de solda ou complicados. Elas podem tocá-los com gestos, controlar a luz e os botões, e ainda combinar os instrumentos de uma com a da outra.
 No final, os participantes podem levar seus instrumentos para casa.
@@ -66,8 +66,6 @@ No final, os participantes podem levar seus instrumentos para casa.
 Com base em um circuito integrado, construímos em placas de prototipagem um circuito simples que gera pulsos elétricos em freqüências audíveis, que ouvimos através de pequenos alto-falantes. Freqüências podem ser moduladas usando sensores de luz e botões rotativos.
 No final, como experimentação, os instrumentos podem ser combinados, gerando modulação cruzada e, assim, sons mais complexos.
 
-
-![image](/images/maritaca/mw-01.jpg)
 ![image](/images/maritaca/mw-03.jpg)
 
 <iframe style="width:100%;height:416px;" src="https://www.youtube.com/embed/px9Je3Rxayc?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
