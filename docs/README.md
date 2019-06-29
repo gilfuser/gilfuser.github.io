@@ -8,7 +8,7 @@ sidebar: false
       Gil Fuser
     </h1>
     <p class="description">
-        trabalhos em digressão
+        trabalhos digressos
     </p>
   </header>
   <div class="features">
@@ -24,7 +24,7 @@ sidebar: false
       </div>
     <div class="feature">
       <h2 class="action">
-        <a href="/experimentos/deslugarejo/" class="nav-link action-button">
+        <a href="/experimentos/curious-singing/" class="nav-link action-button">
         Experimentos
         </a>
       </h2>

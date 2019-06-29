@@ -24,7 +24,7 @@ sidebar: false
       </div>
     <div class="feature">
       <h2 class="action">
-        <a href="/en/experiments/deslugarejo/" class="nav-link action-button">
+        <a href="/en/experiments/curious-singing/" class="nav-link action-button">
         Experiments
         </a>
       </h2>
