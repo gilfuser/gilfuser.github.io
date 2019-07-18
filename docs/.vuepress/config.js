@@ -50,7 +50,7 @@ module.exports = {
     '/': {
       lang: 'pt-BR',
       title: 'trabalhos em digressão',
-      description: 'trabalhos em digressão'
+      description: 'trabalhos digressos'
     }
   },
   themeConfig: {
