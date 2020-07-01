@@ -1,9 +1,15 @@
 # About Me
 
-I'm a media artist because I don't believe that the different art forms should be placed in separate drawers. My research involves various forms of expression and apprehension and how to entangle them all poetically.
+I don't believe that the different art forms should be placed in separate drawers. My research involves various forms of expression and apprehension and how to entangle them all poetically.
 I use sensors, cameras, ordinary everyday objects, garbage, cables, radio modules, prototyping boards and computers running open source software.
 In Berlin, I was a guest student from 2014 to 2017 at the course Generative Art / Computational Art in the UdK. I still collaborate with artists there, but I'm living in São Paulo, my hometown.
 I have been been making visuals and music for performances, and performing myself alone and alongside with the collective Society for Non Trivial Pursuits, or S4NTP.
+
+I don't believe that the different art forms should be put in separate drawers. My research involves various forms of expression and ways of entangle them to bring out new and open meanings. In my work I use sensors, cameras, common everyday objects, garbage, cables, radio modules, microcontrollers and computers with open source and free software.
+
+Between 2014 and 2017, in Berlin / Germany, I was a guest student on the Generative Art / Computational Art course at UdK (University of the Arts). I collaborate with artists from there and elsewhere, from São Paulo. I produce images and music for solo and collaborative presentations, such as for the Society for Non-Trivial Pursuits (S4NTP) and the artist Ieltxu Ortueta.
+
+From 1997 to 2011 I worked as webmaster, animator, and graphic designer in magazines, design studios, communication and advertising studios, such as MTV Brasil, Rico Lins Studio, Editora Três and Touché Propaganda.
 
 ---
 
@@ -11,9 +17,17 @@ I have been been making visuals and music for performances, and performing mysel
 
 ## 2019
 
+### Active Listening
+
+August 26th to December 6th, Derdic (high school for deaf students), and TUCA (Catholic University Theater)
+
+Classes for deaf young students, development of audiovisual instrument and sound design.
+
+[more details](/eng/portfolio/escuta-ativa/)
+
 ### C A M P O
 
-25th and 26th of May, SESC Interlagos, São Paulo
+From 25 de maio, Festival Paidéia, SESC Interlagos, Pompéia, in São Paulo, SESC Ribeirão Preto, Villa Grimaldi in Santiago, Chile
 
 Live music made by codes for the performance C A M P O.
 

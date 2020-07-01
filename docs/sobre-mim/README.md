@@ -1,9 +1,6 @@
 # Sobre mim
 
-Sou mídia-artista porque não acredito que as diferentes formas de arte devam ser colocadas em gavetas separadas. Minha pesquisa envolve várias formas de expressão e apreensão e como envolvê-las para fazer emergirem sentidos novos e abertos.
-Eu uso sensores, câmeras, objetos comuns do dia a dia, lixo, cabos, módulos de rádio, placas de prototipagem e computadores com software de código aberto.
-Em Berlim, fui aluno convidado de 2014 a 2017 no curso Arte Gerativa / Arte Computacional na UdK. Eu ainda colaboro com artistas de lá, mas moro em São Paulo, minha cidade natal.
-Eu venho produzindo imagens e música para apresentações, e me apresentando sozinho e ao lado de outrém, como a coletiva Society for Non Trivial Pursuits, ou S4NTP.
+Não acredito que as diferentes formas de arte devem ser colocadas em gavetas separadas. Minha pesquisa envolve várias formas de expressão e modos de envolvê-las para fazer emergir sentidos novos e abertos. Em meus trabalhos uso sensores, câmeras, objetos comuns do dia a dia, lixo, cabos, módulos de rádio, placas de prototipagem e computadores com softwares de código aberto. Entre 2014 e 2017, em Berlim/Alemanha, fui aluno convidado no curso Arte Gerativa / Arte Computacional na UdK (Universidade das Artes). Colaboro com artistas de lá e de outras partes, a partir de São Paulo. Produzo imagens e música para apresentações solo e em colaboração, como para a Society for Non-Trivial Pursuits (S4NTP) e o artista Ieltxu Ortueta. De 1997 a 2011 trabalhei como designer gráfico, webmaster e animador em revistas, estúdios de design, estúdios de comunicação e publicidade, tais como MTV Brasil, Rico Lins Studio, Editora Três e Touché Propaganda.
 
 ---
 
@@ -11,9 +8,17 @@ Eu venho produzindo imagens e música para apresentações, e me apresentando so
 
 ## 2019
 
+### Escuta Ativa
+
+26 de agosto a 6 de dezembro, Derdic (escola de ensino médio para jovens surdos), TUCA (Teatro da universidade Católica)
+
+Classes for deaf young students, development of audiovisual instrument and sound design.
+
+[mais detalhes](/portfolio/escuta-ativa/)
+
 ### C A M P O
 
-25 e 26 de maio, SESC Interlagos, São Paulo
+Desde 25 de maio, Festival Paidéia, SESC Interlagos, Pompéia, em São Paulo, SESC Ribeirão Preto, Villa Grimaldi em Santiago, Chile
 
 Música ao vivo feita através de códigos para a performance C A M P O.
 
