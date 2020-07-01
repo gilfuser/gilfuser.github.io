@@ -81,6 +81,7 @@ module.exports = {
           {
             title: 'portfolio',
             children: [
+              '/en/portfolio/escuta-ativa/',
               '/en/portfolio/campo/',
               '/en/portfolio/estacao-maritaca/',
               '/en/portfolio/territorio-vital/',
@@ -126,6 +127,7 @@ module.exports = {
           {
             title: 'portfolio',
             children: [
+              '/portfolio/escuta-ativa/',
               '/portfolio/campo/',
               '/portfolio/estacao-maritaca/',
               '/portfolio/territorio-vital/',
