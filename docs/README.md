@@ -14,7 +14,7 @@ sidebar: false
   <div class="features">
     <div class="feature">
       <h2 class="action">
-        <a href="/portfolio/campo/" class="nav-link action-button">
+        <a href="/portfolio/escuta-ativa/" class="nav-link action-button">
         Portfolio
         </a>
       </h2>
