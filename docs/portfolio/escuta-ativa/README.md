@@ -1,9 +1,6 @@
 # Escuta Ativa
 
-<video style="width:100%;height:auto" controls>
-  <source src="/videos/" type="video/VID-20191211-WA0000.mp4">
-  seu browser nao tem suporte para video tag
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSQV4s-juyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Escuta Ativa é um projeto da Orquestra Moderna, uma orquestra voltada para a popularização da música clássica. Em parceria com a escola para surdos do ensino médio Derdic, em São Paulo, ligada à PUC-SP, é um projeto que leva música a jovens surdos.
 Em módulos semestrais, os jovens surdos têm contato com a música de modos não convencionais. Os módulos são finalizados com uma apresentação dos jovens surdos junto a orquestra, com regência e direção artística de Leonard Evers.
