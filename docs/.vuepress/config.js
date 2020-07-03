@@ -54,6 +54,7 @@ module.exports = {
     }
   },
   themeConfig: {
+    smoothScroll: true,
     // sidebarDepth: 0,
     // Assumes GitHub. Can also be a full GitLab url.
     repo: 'gilfuser/gilfuser.github.io',
