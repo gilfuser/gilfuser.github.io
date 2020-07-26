@@ -18,7 +18,7 @@ Existem três instrumentos feitos de código. Dois para as gravações de campo.
 
 ## [Código em SuperCollider](https://github.com/gilfuser/margem-abandonada)
 
-## Hear it
+## Ouça aqui
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/156905876&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 

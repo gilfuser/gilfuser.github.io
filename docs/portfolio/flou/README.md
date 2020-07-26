@@ -1,6 +1,6 @@
-# Flou
-
 ![image](/images/flou/fl-001.png)
+
+# Flou
 
 Fui convidado para criar os sons e a música de sua performance ao vivo: FLOU! por Ieltxu Martinez Ortueta, um multi talentoso artista e pai, como ele explica abaixo. Os conceitos que ele lida combinando movimentos corporais, desenho e pintura, recortes e também street-art, são análogos aos que venho lidando em minha prática de mídia-arte. Diferentes linguagens se cruzam para abrir possibilidades de uma multiplicidade de significados e interações.
 

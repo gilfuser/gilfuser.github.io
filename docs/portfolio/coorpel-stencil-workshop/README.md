@@ -4,7 +4,7 @@ sidebarDepth: -1
 
 # Coorpel Oficina de Estêncil
 
-## Workshop para pessoas sem endereço fixo na Cooperativa de reciclagem de resíduos - Coorpel  
+## Workshop para pessoas em processo de admissão na Cooperativa de reciclagem de resíduos - Coorpel  
 
 São Paulo, agosto a novembro de 2011
 
