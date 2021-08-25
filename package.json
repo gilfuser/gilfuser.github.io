@@ -34,6 +34,7 @@
     "@vuepress/plugin-pwa": "^1.8.1",
     "@vuepress/plugin-register-components": "^1.8.1",
     "@vuepress/plugin-search": "^1.8.1",
+    "is-svg": "^4.3.1",
     "mkdirp": "^1.0.4",
     "vuepress": "^1.8.1"
   },
